@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fuzzySearch", "fuzzySearch.vcxproj", "{29204712-B60A-48C2-AC3D-288AC3635713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29204712-B60A-48C2-AC3D-288AC3635713}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29204712-B60A-48C2-AC3D-288AC3635713}.Debug|Win32.Build.0 = Debug|Win32
+		{29204712-B60A-48C2-AC3D-288AC3635713}.Release|Win32.ActiveCfg = Release|Win32
+		{29204712-B60A-48C2-AC3D-288AC3635713}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
